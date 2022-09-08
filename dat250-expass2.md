@@ -1,4 +1,5 @@
 technical problems that you encountered during installation and use of Java Persistence Architecture (JPA) and how you resolved
+error on my dell, but tried with my mac and then it worked.
 
 a link to your code for experiment 2 above. Make sure the included test case passes!
 
