@@ -16,7 +16,6 @@ an explanation of how you inspected the database tables and what tables were cre
 - First, I needed to set up the database , after it was created. In Database on the right side in intellij, I clicked "+" to add a new ->data source -> apache derby and filled in name, user and password from persistence.xml and tested connection. If the connection succeded, I could apply the database.
 - And then I could see the vizualization by righ click the root of the database -> Diagrams -> Show visualization
 - Screenshots
-<br>
 ![Database visualization](https://user-images.githubusercontent.com/97961839/190235742-723b0acd-d97e-473a-9cd2-80c416676b74.png)
 
 any pending issues with this assignment that you did not manage to solve
