@@ -1,5 +1,6 @@
 Technical problems that you encountered during installation and use of MongoDB and how you resolved
 - installation went smoothly, but i could not open the exe-file via termial, så i had to run it via file explorer.
+- error when checking sha. did not add the whole content for the .sha file so the sha verification didn not work until i fixed the file name and content
 
 Screenshots for:
 
