@@ -4,7 +4,7 @@ Technical problems that you encountered during installation and use of MongoDB a
 
 Screenshots for:
 
-- The correct validation of the installation package (https://docs.mongodb.com/manual/tutorial/verify-mongodb-packages/)
+- The correct validation of the installation package
 
 <img width="869" alt="sha - True" src="https://user-images.githubusercontent.com/97961839/191324314-cb6a24b1-9296-4f68-afaa-8b9fe0d09768.png">
 
