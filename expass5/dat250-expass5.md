@@ -3,10 +3,8 @@ technical problems that you encountered during the completion of the tutorial
 - Spring boot:got error when running curl command. had to add http:// to the localhost-url
 
 a link to your code for experiment 1-4 above
+- https://github.com/idaherabakka/spring-boot
 
 any pending issues with this assignment which you did not manage to solve
-- spring boot: didnt manage to shutdown a spring boot to test app.groovy
-
-
-- rest service: need to build an executable JARL(but how can i run the app when mvnw not working) and test the service
+- rest service: didnt manage to create the JAR file
 - data access: didnt get expected result when running the file
