@@ -9,5 +9,3 @@ https://github.com/idaherabakka/newapp
 
 
 any pending issues with this assignment which you did not manage to solve
-
-didnt got to finish, but will finish and push tomorrow
